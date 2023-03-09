@@ -1,4 +1,4 @@
-# Unwind Chat App
+# Chat App
 
 A pet project of mine for learning React with Hooks + Socket.io
 
@@ -25,7 +25,3 @@ A pet project of mine for learning React with Hooks + Socket.io
 - PostgreSQL
 - Redis
 - Docker
-
-# Plans for this pet project
-
-See [GitHub Kanban Board](https://github.com/cerino-ligutom/Unwind/projects/1).
